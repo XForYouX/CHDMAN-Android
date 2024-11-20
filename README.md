@@ -3,5 +3,4 @@
 • Basic = Bin / Cue
 
 • Testing : 
-
-*> PS1 ( Worked )
+ >* PS1 ( Worked )
