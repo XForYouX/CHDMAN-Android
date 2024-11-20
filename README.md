@@ -10,4 +10,4 @@
 >* PSP ( Worked ) ( Performance Maybe Not Good )
 
 # Official Source
-*[Official Source](https://github.com/mamedev/mame)
+* [Official Source](https://github.com/mamedev/mame)
